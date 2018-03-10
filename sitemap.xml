@@ -3,294 +3,311 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://inseptek.com/buat-blog-dengan-hugo/</loc>
+    <loc>https://inseptek.github.io/deface-web-hugo-pakai-bulma/</loc>
+    <lastmod>2018-01-05T09:25:50+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/buat-blog-dengan-hugo/</loc>
     <lastmod>2017-09-27T17:25:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inseptek.com/telkomsel-4g-lte-di-gunung-bromo-sampai-66-mbps/</loc>
+    <loc>https://inseptek.github.io/telkomsel-4g-lte-di-gunung-bromo-sampai-66-mbps/</loc>
     <lastmod>2017-05-21T15:48:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inseptek.com/dampak-positif-dan-negatif-penggunaan-teknologi/</loc>
+    <loc>https://inseptek.github.io/dampak-positif-dan-negatif-penggunaan-teknologi/</loc>
     <lastmod>2017-04-27T15:58:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inseptek.com/informasi-teknologi/</loc>
+    <loc>https://inseptek.github.io/informasi-teknologi/</loc>
     <lastmod>2017-04-27T15:45:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inseptek.com/pengertian-dan-fungsi-teknologi-informasi-beserta-tujuan/</loc>
+    <loc>https://inseptek.github.io/pengertian-dan-fungsi-teknologi-informasi-beserta-tujuan/</loc>
     <lastmod>2017-04-22T14:00:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inseptek.com/apa-itu-blue-core/</loc>
+    <loc>https://inseptek.github.io/apa-itu-blue-core/</loc>
     <lastmod>2017-04-22T08:47:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inseptek.com/apa-itu-xampp/</loc>
+    <loc>https://inseptek.github.io/apa-itu-xampp/</loc>
     <lastmod>2017-04-22T08:31:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/4g/</loc>
+    <loc>https://inseptek.github.io/tags/4g/</loc>
     <lastmod>2017-05-21T15:48:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/apa-itu-/</loc>
+    <loc>https://inseptek.github.io/categories/apa-itu-/</loc>
     <lastmod>2017-04-27T15:58:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/categories/apa-itu-/</loc>
+    <loc>https://inseptek.github.io/tags/apa-itu-/</loc>
     <lastmod>2017-04-27T15:58:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/apache/</loc>
+    <loc>https://inseptek.github.io/tags/apache/</loc>
     <lastmod>2017-04-22T08:31:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/blog/</loc>
+    <loc>https://inseptek.github.io/tags/blog/</loc>
     <lastmod>2017-09-27T17:25:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/blue-core/</loc>
+    <loc>https://inseptek.github.io/tags/blue-core/</loc>
     <lastmod>2017-04-22T08:47:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/bromo/</loc>
+    <loc>https://inseptek.github.io/tags/bromo/</loc>
     <lastmod>2017-05-21T15:48:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/categories/</loc>
+    <loc>https://inseptek.github.io/categories/</loc>
     <lastmod>2017-04-27T15:58:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/dampak/</loc>
+    <loc>https://inseptek.github.io/tags/css/</loc>
+    <lastmod>2018-01-05T09:25:50+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/dampak/</loc>
     <lastmod>2017-04-27T15:58:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/fungsi/</loc>
-    <lastmod>2017-04-22T14:00:52+00:00</lastmod>
+    <loc>https://inseptek.github.io/tags/deface/</loc>
+    <lastmod>2018-01-05T09:25:50+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/hugo/</loc>
-    <lastmod>2017-09-27T17:25:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/info/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/categories/info/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/informasi/</loc>
-    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/informasi-teknologi/</loc>
-    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/</loc>
-    <lastmod>2017-09-27T17:25:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/internet/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/it/</loc>
-    <lastmod>2017-04-27T15:45:30+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/kawah/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/kecepatan/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/komunikasi/</loc>
-    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/lte/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/menarik/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/mysql/</loc>
-    <lastmod>2017-04-22T08:31:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/otomotif/</loc>
-    <lastmod>2017-04-22T08:47:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/pegunungan/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/pengertian/</loc>
-    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/php/</loc>
-    <lastmod>2017-04-22T08:31:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/post/</loc>
-    <lastmod>2017-09-27T17:25:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/speedtest/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/teknologi/</loc>
-    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/categories/teknologi/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/teknologi-informasi/</loc>
-    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/categories/teknologi-informasi/</loc>
-    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/categories/teknologi-internet/</loc>
-    <lastmod>2017-04-22T08:31:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/categories/teknologi-mesin/</loc>
-    <lastmod>2017-04-22T08:47:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/telkomsel/</loc>
-    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/ti/</loc>
-    <lastmod>2017-04-27T15:45:30+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://inseptek.com/tags/tujuan/</loc>
+    <loc>https://inseptek.github.io/tags/fungsi/</loc>
     <lastmod>2017-04-22T14:00:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/web/</loc>
+    <loc>https://inseptek.github.io/tags/hugo/</loc>
     <lastmod>2017-09-27T17:25:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/xampp/</loc>
+    <loc>https://inseptek.github.io/categories/info/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/info/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/informasi/</loc>
+    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/informasi-teknologi/</loc>
+    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/</loc>
+    <lastmod>2018-01-05T09:25:50+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/internet/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/it/</loc>
+    <lastmod>2017-04-27T15:45:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/kawah/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/kecepatan/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/komunikasi/</loc>
+    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/lte/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/menarik/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/mysql/</loc>
     <lastmod>2017-04-22T08:31:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inseptek.com/tags/yamaha/</loc>
+    <loc>https://inseptek.github.io/tags/otomotif/</loc>
+    <lastmod>2017-04-22T08:47:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/pegunungan/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/pengertian/</loc>
+    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/php/</loc>
+    <lastmod>2017-04-22T08:31:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/post/</loc>
+    <lastmod>2018-01-05T09:25:50+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/speedtest/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/categories/teknologi/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/teknologi/</loc>
+    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/categories/teknologi-informasi/</loc>
+    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/teknologi-informasi/</loc>
+    <lastmod>2017-04-27T15:58:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/categories/teknologi-internet/</loc>
+    <lastmod>2017-04-22T08:31:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/categories/teknologi-mesin/</loc>
+    <lastmod>2017-04-22T08:47:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/telkomsel/</loc>
+    <lastmod>2017-05-21T15:48:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/ti/</loc>
+    <lastmod>2017-04-27T15:45:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/tujuan/</loc>
+    <lastmod>2017-04-22T14:00:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/web/</loc>
+    <lastmod>2017-09-27T17:25:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/xampp/</loc>
+    <lastmod>2017-04-22T08:31:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inseptek.github.io/tags/yamaha/</loc>
     <lastmod>2017-04-22T08:47:41+00:00</lastmod>
     <priority>0</priority>
   </url>
